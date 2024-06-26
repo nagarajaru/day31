@@ -1,0 +1,5 @@
+# DAY 31 TASK
+
+* CODE IS CONDUCTED IN APP   http://localhost:5173/
+
+* THE CODE IS ADDED TO NETLIFY
